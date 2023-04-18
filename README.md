@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesca</h1>
 <h3 align="center">A passionate full Stack developer from Peru living in Spain</h3>
 <p> Since I can remember, I have liked technology and have always been involved in some way. After years of experience in the commercial world, I made the best decision to turn my hobby into my profession.
-Now that I have graduated from the Adalab boot camp, I am looking for my first opportunity to follow this path that I am very passionate about! I am hard-working, a fast learner, and a teamwork enthusiast! <p>
+Now that I have graduated from the Adalab boot camp, I am looking for my first opportunity to follow this path that I am very passionate about! I am hardworking, a fast learner, and a teamwork enthusiast! <p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/francescabentin?tab=repositories](https://github.com/francescabentin?tab=repositories)
 
