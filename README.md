@@ -7,6 +7,8 @@ Now that I have completed the Adalab boot camp, I am seeking for my first opport
 
 - 📫 How to reach me **francescabentin@gmail.com**
 
+- Portfolio : https://francescabentin.github.io/portfolio/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francescabentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francescabentin" height="30" width="40" /></a>
