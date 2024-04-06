@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesca</h1>
 <h3 align="center">A passionate junior developer from Peru living in Spain</h3>
 <p> Since I can remember, I have been interested in technology and have been involved in some capacity. After years of experience in sales and marketing, I made the best decision to turn my hobby into my profession.
-Now that I have completed the Adalab boot camp, I am seeking for my first opportunity to pursue this path that I am very passionate about! I am a hard worker, a fast learner, and a teamwork enthusiast! <p>
+ <p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/francescabentin?tab=repositories](https://github.com/francescabentin?tab=repositories)
 
